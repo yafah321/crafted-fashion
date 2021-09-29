@@ -1,0 +1,164 @@
+.container{
+    margin-bottom: 70px;
+   
+}
+
+.orange-bg{
+    background-color: #feeae9;
+    border-radius: 15px;
+}
+
+.carousel-item{
+    padding: 20px;
+}
+
+.price{
+    color: #FF136F;
+}
+
+.buy-now-btn {background-image: linear-gradient(to right, #ff00cc 0%, #333399  51%, #ff00cc  100%)}
+.buy-now-btn {
+   
+   padding: 9px 25px;
+   text-align: center;
+   text-transform: uppercase;
+   transition: 0.5s;
+   background-size: 200% auto;
+   color: white;           
+   border-radius: 15px;
+   border: none;
+ 
+ }
+
+ .buy-now-btn:hover {
+   background-position: right center; /* change the direction of the change here */
+   color: #fff;
+   text-decoration: none;
+ }
+
+ .cat1, .cat2 , .cat3{
+     padding: 10px 15px;
+ }
+
+ 
+
+ 
+ .cat1 {background-image: linear-gradient(to right, #20002c 0%, #cbb4d4  51%, #20002c  100%)}
+ .cat1 {
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 15px;
+    display: block;
+  }
+
+  .cat1:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+ 
+ 
+ 
+  .cat2 {background-image: linear-gradient(to right, #7b4397 0%, #dc2430  51%, #7b4397  100%)}
+  .cat2 {
+     margin: 10px;
+     padding: 15px 45px;
+     text-align: center;
+     text-transform: uppercase;
+     transition: 0.5s;
+     background-size: 200% auto;
+     color: white;            
+     box-shadow: 0 0 20px #eee;
+     border-radius: 15px;
+     display: block;
+   }
+
+   .cat2:hover {
+     background-position: right center; /* change the direction of the change here */
+     color: #fff;
+     text-decoration: none;
+   }
+  
+   
+   .cat3 {background-image: linear-gradient(to right, #360033 0%, #0b8793  51%, #360033  100%)}
+   .cat3 {
+      margin: 10px;
+      padding: 15px 45px;
+      text-align: center;
+      text-transform: uppercase;
+      transition: 0.5s;
+      background-size: 200% auto;
+      color: white;            
+      box-shadow: 0 0 20px #eee;
+      border-radius: 15px;
+      display: block;
+    }
+
+    .cat3:hover {
+      background-position: right center; /* change the direction of the change here */
+      color: #fff;
+      text-decoration: none;
+    }
+   .catagories img{
+       width: 100px;
+   }
+
+   
+ 
+   .navbar {background-image: linear-gradient(to right, #F7971E 0%, #FFD200  51%, #F7971E  100%)}
+   .navbar {
+      
+      transition: 0.5s;
+      background-size: 200% auto;
+      color: white;            
+    
+      border-radius: 15px;
+      
+    }
+
+    .navbar:hover {
+      background-position: right center; /* change the direction of the change here */
+      color: #fff;
+      text-decoration: none;
+    }
+   
+    .card{
+        border-radius: 15px;
+        border: none;
+        box-shadow: 3px 5px 10px lightgrey;
+    }
+
+    
+    .btn-card {background-image: linear-gradient(to right, #1A2980 0%, #26D0CE  51%, #1A2980  100%)}
+    .btn-card {
+       
+       padding: 15px 45px;
+       text-align: center;
+       text-transform: uppercase;
+       transition: 0.5s;
+       background-size: 200% auto;
+       color: white;            
+       border: none;
+       border-radius: 10px;
+       display: block;
+     }
+
+     .btn-card:hover {
+       background-position: right center; /* change the direction of the change here */
+       color: #fff;
+       text-decoration: none;
+     }
+    
+     .lst{
+         height: 250px;
+     }
+
+     footer{
+         text-align: center;
+     }
